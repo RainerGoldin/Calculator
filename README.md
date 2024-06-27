@@ -1,2 +1,2 @@
 # Safe Password
-Just an ordinary calculator
+A program to make a safe password for you!
